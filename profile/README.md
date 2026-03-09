@@ -11,9 +11,10 @@ Greetings! I've made my code private so that I can control who can copy it and t
 - To show the positive impact AI can have on research and journalism
 - To NOT use AI if there is a better method by which a task can be done
 
+## How it works:
+
 https://github.com/user-attachments/assets/2697702d-9e9d-46d8-9ddf-0f749746ef6c
 
-## How it works:
 * 2 part system: backend API and frontend web extension
 * Web extension scrapes raw text from sites visited and checks for sensitive information before sending to backend API
 * Backend processes data and sends to NVIDIA/OPENAI API to process
