@@ -1,7 +1,7 @@
 # Foilhat.ai
 ## A Student-Developed project to make credible information more accessible
 
-Greetings! If you are here looking for access, send me an email at gronkyd@gmail.com with your name, email, and why you want access; and I'll get back to you within a day.
+Greetings! I've made my code private so that I can control who can copy it and take credit. If you are here looking for access, send me an email at gronkyd@gmail.com with your name, email, and why you want access; and I'll get back to you within a day.
 
 -Daniel Weiss
 
