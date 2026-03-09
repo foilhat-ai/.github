@@ -13,6 +13,13 @@ https://github.com/user-attachments/assets/2697702d-9e9d-46d8-9ddf-0f749746ef6c
 - to show the positive impact AI can have on research and journalism
 - to NOT use AI if there is a better method by which a task can be done
 
+## How it works:
+* 2 part system: backend API and frontend web extension
+* web extension scrapes raw text from sites visited and checks for sensitive information before sending to backend API
+* backend processes data and sends to NVIDIA/OPENAI API to process
+* backend receives a JSON containing disputed/supported claims and sends to web extension
+* web extension alters HTML and CSS of website to display disputed claims and counter-sources
+
 ## Public TODO:
 1. Create a more secure account system
 2. Citation creator subfeature
@@ -22,5 +29,5 @@ https://github.com/user-attachments/assets/2697702d-9e9d-46d8-9ddf-0f749746ef6c
 6. Figure out a more precise, sustainable monetization plan
 7. Create a customer landing page
 8. Buy the domain (foilhat.ai) and host the webapp on it
-9. Obtain legal rights to code
+9. Obtain legal rights to code and write terms of service
 10. Artwork + advertising
