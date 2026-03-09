@@ -5,6 +5,8 @@ Greetings! I've made my code private so that I can control who can copy it and t
 
 -Daniel Weiss
 
+https://github.com/user-attachments/assets/2697702d-9e9d-46d8-9ddf-0f749746ef6c
+
 Foilhat's Mission:
 - to make differentiating between reporting and conspiracy effortless
 - to make gathering information and citing sources easier
