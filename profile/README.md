@@ -5,13 +5,13 @@ Greetings! I've made my code private so that I can control who can copy it and t
 
 -Daniel Weiss
 
-https://github.com/user-attachments/assets/2697702d-9e9d-46d8-9ddf-0f749746ef6c
-
 ## Foilhat's Mission:
 - To make differentiating between reporting and conspiracy effortless
 - To make gathering information and citing sources easier
 - To show the positive impact AI can have on research and journalism
 - To NOT use AI if there is a better method by which a task can be done
+
+https://github.com/user-attachments/assets/2697702d-9e9d-46d8-9ddf-0f749746ef6c
 
 ## How it works:
 * 2 part system: backend API and frontend web extension
