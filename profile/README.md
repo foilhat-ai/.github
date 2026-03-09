@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/2697702d-9e9d-46d8-9ddf-0f749746ef6c
 2. Citation creator subfeature
 3. Refine the control panel UI
 4. Create a more reliable method of determining the credibility of a source (credibility database?)
-5. Locally host an LLM so that we don't rely on a third party service (I will handle this, this is literally what my dad does for work)
+5. Locally host an LLM so that we don't rely on a third party service
 6. Figure out a more precise, sustainable monetization plan
 7. Create a customer landing page
 8. Buy the domain (foilhat.ai) and host the webapp on it
