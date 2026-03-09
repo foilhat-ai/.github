@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/2697702d-9e9d-46d8-9ddf-0f749746ef6c
 * Web extension scrapes raw text from sites visited and checks for sensitive information before sending to backend API
 * Backend processes data and sends to NVIDIA/OPENAI API to process
 * Backend receives a JSON containing disputed/supported claims and sends to web extension
-* Eeb extension alters HTML and CSS of website to display disputed claims and counter-sources
+* Web extension alters HTML and CSS of website to display disputed claims and counter-sources
 
 ## Public TODO:
 1. Create a more secure account system
