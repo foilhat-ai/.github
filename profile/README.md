@@ -7,8 +7,20 @@ Greetings! I've made my code private so that I can control who can copy it and t
 
 https://github.com/user-attachments/assets/2697702d-9e9d-46d8-9ddf-0f749746ef6c
 
-Foilhat's Mission:
+## Foilhat's Mission:
 - to make differentiating between reporting and conspiracy effortless
 - to make gathering information and citing sources easier
 - to show the positive impact AI can have on research and journalism
 - to NOT use AI if there is a better method by which a task can be done
+
+## Public TODO:
+1. Create a more secure account system
+2. Citation creator subfeature
+3. Refine the control panel UI
+4. Create a more reliable method of determining the credibility of a source (credibility database?)
+5. Locally host an LLM so that we don't rely on a third party service (I will handle this, this is literally what my dad does for work)
+6. Figure out a more precise, sustainable monetization plan
+7. Create a customer landing page
+8. Buy the domain (foilhat.ai) and host the webapp on it
+9. Obtain legal rights to code
+10. Artwork + advertising
