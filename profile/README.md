@@ -36,3 +36,9 @@ https://github.com/user-attachments/assets/67792e56-57a2-42be-a861-cc2ef2b0e2f5
 8. Buy the domain (foilhat.ai) and host the webapp on it
 9. Obtain legal rights to code and write terms of service
 10. Artwork + advertising
+
+## Future ideas:
+* Replace google AI overview with a quote from a human-written source with an author
+* Web cite creator
+* PDF research paper cite creator
+* Bibliography generator
