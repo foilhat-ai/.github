@@ -13,7 +13,11 @@ Greetings! I've made my code private so that I can control who can copy it and t
 
 ## How it works:
 
-https://github.com/user-attachments/assets/2697702d-9e9d-46d8-9ddf-0f749746ef6c
+
+
+https://github.com/user-attachments/assets/67792e56-57a2-42be-a861-cc2ef2b0e2f5
+
+
 
 * 2 part system: backend API and frontend web extension
 * Web extension scrapes raw text from sites visited and checks for sensitive information before sending to backend API
