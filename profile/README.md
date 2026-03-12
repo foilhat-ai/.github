@@ -13,11 +13,8 @@ Greetings! I've made my code private so that I can control who can copy it and t
 
 ## How it works:
 
-
-
-https://github.com/user-attachments/assets/67792e56-57a2-42be-a861-cc2ef2b0e2f5
-
-
+<video src="https://github.com/foilhat-ai/.github/edit/main/profile/README.md" controls="controls" style="max-width: 730px;">
+</video>
 
 * 2 part system: backend API and frontend web extension
 * Web extension scrapes raw text from sites visited and checks for sensitive information before sending to backend API
